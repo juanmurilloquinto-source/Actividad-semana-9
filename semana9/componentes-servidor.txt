@@ -1,0 +1,19 @@
+Sistema operativo:
+Es la base del servidor. Gestiona el hardware, los procesos y los archivos. 
+En nuestro caso Codespaces usa Linux. Sin él no podría correr nada más.
+
+Node.js:
+Es el entorno de ejecución que permite correr JavaScript fuera del navegador. 
+Interpreta nuestro server.js y maneja las peticiones HTTP. Es el "motor" de la API.
+
+Aplicación server.js:
+Es nuestro código. Define las rutas /register/user y /estado, y la lógica de la API comunitaria. 
+Es lo que construimos nosotros para que el servidor haga algo útil.
+
+Puerto:
+Es la "puerta" 3000 por donde entran y salen las peticiones. 
+El servidor escucha en ese puerto para recibir las solicitudes del navegador o Postman.
+
+Logs:
+Son los mensajes que aparecen en la terminal, como "Servidor ejecutándose en puerto 3000". 
+Sirven para saber si el servidor inició bien, si hubo errores o qué peticiones llegaron.

@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas de las comunidades funcionen de manera estable porque si el servidor se cae, las personas pierden acceso a la información y a la comunicación. Eso genera desconfianza y la comunidad deja de participar.
+
+La seguridad también es clave porque estas plataformas manejan datos de personas. Si el servidor no es seguro, cualquiera puede robar información, cambiar contenido o hacer mal uso de la plataforma. Eso daña la confianza del grupo.
+
+Un servidor estable garantiza que la plataforma esté disponible 24/7 cuando la comunidad la necesite. Un servidor seguro protege la privacidad y evita ataques.
+
+Además, la estabilidad y seguridad permiten que haya trazabilidad: saber quién hizo qué y cuándo. Sin eso no hay control ni transparencia.
+
+En resumen, sin estabilidad no hay acceso, y sin seguridad no hay confianza. Ambas son la base para que la comunidad use la plataforma con tranquilidad y a largo plazo.
